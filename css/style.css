@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Reggae+One&display=swap');
+
+body{
+    background-color: cornflowerblue;
+    font-family: 'Cairo', sans-serif;
+    color: black;
+    text-align: center;
+}
